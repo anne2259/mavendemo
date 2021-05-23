@@ -7,7 +7,6 @@
 	<packaging>war</packaging>
 	<name>Hello World Java EE</name>
 	<description>Learn Java JSP and Servlet</description>
-
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
